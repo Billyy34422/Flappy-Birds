@@ -1,2 +1,1 @@
-# Flappy-Birds
-Test Website
+# Flappy-Bird-Game with JavaScript
